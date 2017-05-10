@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d75802e02488e0b50cba93e1b9dcda86"
+build_time: [539140086, 441834000]
+inputs:
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/OneShotMovies/Favourites Section/favouritesViewController.swift": !dirty [538262238, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/OneShotMovies/ViewController.swift": !dirty [538260689, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/OneShotMovies/Display Section/movieDisplayViewController.swift": !dirty [538261320, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/OneShotMovies/AppDelegate.swift": !dirty [537655712, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/OneShotMovies/TableViewCell Section/favouriteMovieTableViewCell.swift": !dirty [537753399, 0]

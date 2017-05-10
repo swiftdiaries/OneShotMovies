@@ -1,0 +1,135 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/AsyncSwift/Async.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Async-Swift.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/AsyncSwift/Async.framework/Headers/Async-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AsyncSwift-umbrella.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Target Support Files/AsyncSwift/AsyncSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/AsyncSwift/Async.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Pods.build/Debug-iphoneos/AsyncSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/Pods_OneShotMovies.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-OneShotMovies-umbrella.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Target Support Files/Pods-OneShotMovies/Pods-OneShotMovies-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_OneShotMovies-Swift.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/Pods_OneShotMovies.framework/Headers/Pods_OneShotMovies-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/Pods_OneShotMovies.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Pods.build/Debug-iphoneos/Pods-OneShotMovies.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/SQLite.swift/SQLite.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SQLite-Bridging.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/SQLite.swift/Sources/SQLiteObjc/include/SQLite-Bridging.h"
+        },
+        {
+          'type': 'file',
+          'name': "SQLite-Swift.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/SQLite.swift/SQLite.framework/Headers/SQLite-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SQLite.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/SQLite.swift/Sources/SQLite/SQLite.h"
+        },
+        {
+          'type': 'file',
+          'name': "SQLite.swift-umbrella.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Target Support Files/SQLite.swift/SQLite.swift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/SQLite.swift/SQLite.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Pods.build/Debug-iphoneos/SQLite.swift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/SQLite.swift/SQLite.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "fts3_tokenizer.h",
+          'external-contents': "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/SQLite.swift/Sources/SQLiteObjc/fts3_tokenizer.h"
+        }
+      ]
+    }
+  ]
+}

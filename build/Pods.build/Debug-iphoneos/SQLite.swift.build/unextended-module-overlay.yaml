@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Debug-iphoneos/SQLite.swift/SQLite.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/Adhita/Documents/iOS_Apps/OneShotMovies/build/Pods.build/Debug-iphoneos/SQLite.swift.build/unextended-module.modulemap',
+    }]
+  }]
+}

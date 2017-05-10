@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2cc22797678fff5ac5c93f40d1ac2588"
+build_time: [539140067, 150442000]
+inputs:
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/AFError.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/Alamofire.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/MultipartFormData.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/Notifications.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/ParameterEncoding.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/Request.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/Response.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/ResponseSerialization.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/Result.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/ServerTrustPolicy.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/SessionDelegate.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/SessionManager.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/TaskDelegate.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/Timeline.swift": [537659702, 0]
+  "/Users/Adhita/Documents/iOS_Apps/OneShotMovies/Pods/Alamofire/Source/Validation.swift": [537659702, 0]
